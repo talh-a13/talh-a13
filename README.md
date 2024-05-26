@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Fiver](https://www.fiverr.com/talha1413?public_mode=true)
 
-- 🌱 I’m currently learning **Node Js and MongoDB**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **Flutter Development**
 
