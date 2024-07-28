@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talh-a13&label=Profile%20views&color=0e75b6&style=flat" alt="talh-a13" /> </p>
 
-- 🔭 I’m currently working on [Fiver](https://www.fiverr.com/talha1413?public_mode=true)
+- 🔭 I’m presently developing  **Flutter Applications**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Flutter Development**
 
