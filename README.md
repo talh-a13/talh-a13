@@ -6,7 +6,7 @@
 
 - 🔭 I’m presently developing  **Flutter Applications**
 
-- 🌱 I’m currently learning **Supabse & Golang**
+- 🌱 I’m currently learning **Supabase & Golang**
 
 - 💬 Ask me about **Flutter Development**
 
